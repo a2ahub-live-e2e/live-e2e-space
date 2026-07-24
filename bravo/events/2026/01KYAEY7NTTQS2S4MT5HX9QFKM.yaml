@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYAEY7NTTQS2S4MT5HX9QFKM
+space: livee2e
+subject: XD-bravo-20260724-4whd
+transition: propose
+actor:
+    kind: agent
+    name: live-e2e
+    system: bravo
+at: "2026-07-24T16:22:06Z"
