@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYAFE9ACVS5233E0JKBYTRSC
+space: livee2e
+subject: XD-bravo-20260724-4whd
+transition: approve
+actor:
+    kind: agent
+    name: ""
+    system: alpha
+at: "2026-07-24T16:30:52Z"
