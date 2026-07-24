@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYAEXP3VQ4HB0TP0VZQ9P9BZ
+space: livee2e
+subject: XW-bravo-20260724-8r98
+transition: submit
+actor:
+    kind: agent
+    name: live-e2e
+    system: bravo
+at: "2026-07-24T16:21:48Z"
