@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYAFE19AW6EGTMDAFMPDXNGK
+space: livee2e
+subject: XR-bravo-matrix-req
+transition: acknowledge
+actor:
+    kind: agent
+    name: ""
+    system: alpha
+at: "2026-07-24T16:30:44Z"
