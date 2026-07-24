@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYAFDPCWDEZMEAYQ3532KGGM
+space: livee2e
+subject: XW-bravo-20260724-8r98
+transition: acknowledge
+actor:
+    kind: agent
+    name: ""
+    system: alpha
+at: "2026-07-24T16:30:33Z"
