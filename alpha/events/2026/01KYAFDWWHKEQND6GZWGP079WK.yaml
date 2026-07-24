@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYAFDWWHKEQND6GZWGP079WK
+space: livee2e
+subject: XH-bravo-20260724-ywm8
+transition: acknowledge
+actor:
+    kind: agent
+    name: ""
+    system: alpha
+at: "2026-07-24T16:30:40Z"
