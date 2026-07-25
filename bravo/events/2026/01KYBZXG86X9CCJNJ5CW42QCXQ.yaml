@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYBZXG86X9CCJNJ5CW42QCXQ
+space: livee2e
+subject: XW-alpha-20260725-rrp2
+transition: acknowledge
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-07-25T06:38:03Z"
