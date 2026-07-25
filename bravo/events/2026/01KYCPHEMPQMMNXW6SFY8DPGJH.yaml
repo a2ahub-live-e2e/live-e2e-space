@@ -1,0 +1,11 @@
+schema: event/v1
+event: 01KYCPHEMPQMMNXW6SFY8DPGJH
+space: livee2e
+subject: XC-bravo-matrix-contract-lifecycle
+transition: retire
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-07-25T13:13:25Z"
+version: 1.0.0
