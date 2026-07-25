@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYD16GW3FNXBQ6Y10KSKM4ZE
+space: livee2e
+subject: XC-bravo-matrix-contract-lifecycle
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: bravo
+at: "2026-07-25T16:19:41Z"
