@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYBGH1R7TWBE9E4K9RW97BAN
+space: livee2e
+subject: XA-bravo-20260725-nmve
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: bravo
+at: "2026-07-25T02:09:06Z"
