@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYBDWR86XDQCDBCZEYWV2X6Y
+space: livee2e
+subject: XR-alpha-matrix-lifecycle-req
+transition: withdraw
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-25T01:23:04Z"
