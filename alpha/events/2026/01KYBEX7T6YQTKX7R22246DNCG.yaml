@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYBEX7T6YQTKX7R22246DNCG
+space: livee2e
+subject: XA-alpha-20260725-amry
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-25T01:40:48Z"
