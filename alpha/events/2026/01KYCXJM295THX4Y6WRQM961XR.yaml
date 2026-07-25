@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYCXJM295THX4Y6WRQM961XR
+space: livee2e
+subject: XC-alpha-illegalfam-contract-retire
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-25T15:16:23Z"
