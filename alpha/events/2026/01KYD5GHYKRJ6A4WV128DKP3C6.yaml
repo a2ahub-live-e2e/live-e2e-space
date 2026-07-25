@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYD5GHYKRJ6A4WV128DKP3C6
+space: livee2e
+subject: XC-alpha-matrix-contract-lifecycle
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-25T17:35:04Z"
