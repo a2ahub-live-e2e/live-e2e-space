@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYDQRRGV2V6MBJJWHZN1VGAQ
+space: livee2e
+subject: XR-bravo-matrix-lifecycle-req
+transition: withdraw
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-07-25T22:54:07Z"
