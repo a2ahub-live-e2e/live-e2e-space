@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYDSJEMKMSP6T30GHDBSYW2F
+space: livee2e
+subject: XD-alpha-20260725-t3xk
+transition: approve
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-25T23:25:38Z"
