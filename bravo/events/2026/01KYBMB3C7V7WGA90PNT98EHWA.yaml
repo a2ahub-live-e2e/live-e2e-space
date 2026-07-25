@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYBMB3C7V7WGA90PNT98EHWA
+space: livee2e
+subject: XA-bravo-20260725-nwp3
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: bravo
+at: "2026-07-25T03:15:45Z"
