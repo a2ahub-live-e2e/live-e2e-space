@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYBGGTB8TFNYZ18SFH5HQPSH
+space: livee2e
+subject: XA-alpha-20260725-dwfr
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-25T02:08:58Z"
