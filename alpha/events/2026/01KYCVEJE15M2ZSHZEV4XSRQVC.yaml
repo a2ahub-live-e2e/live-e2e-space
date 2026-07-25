@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYCVEJE15M2ZSHZEV4XSRQVC
+space: livee2e
+subject: XR-alpha-matrix-lifecycle-req
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-25T14:39:13Z"
