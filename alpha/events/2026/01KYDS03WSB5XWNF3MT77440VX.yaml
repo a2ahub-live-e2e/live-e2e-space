@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYDS03WSB5XWNF3MT77440VX
+space: livee2e
+subject: XW-alpha-20260725-ef41
+transition: close
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-25T23:15:37Z"
