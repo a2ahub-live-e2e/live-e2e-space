@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYDSY26K6T2GVZ9QDGFP67RX
+space: livee2e
+subject: XD-alpha-20260725-91bg
+transition: propose
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-25T23:31:58Z"
