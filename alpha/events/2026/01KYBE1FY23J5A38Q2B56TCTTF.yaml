@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYBE1FY23J5A38Q2B56TCTTF
+space: livee2e
+subject: XC-alpha-matrix-contract-lifecycle
+transition: deprecate
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-25T01:25:39Z"
+refs:
+    - ref: XC-alpha-matrix-contract-lifecycle-successor@2.0.0
+version: 1.0.0
