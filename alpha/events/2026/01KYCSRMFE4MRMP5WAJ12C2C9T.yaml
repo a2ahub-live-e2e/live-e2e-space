@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYCSRMFE4MRMP5WAJ12C2C9T
+space: livee2e
+subject: XA-alpha-20260725-tkrx
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-25T14:09:46Z"
