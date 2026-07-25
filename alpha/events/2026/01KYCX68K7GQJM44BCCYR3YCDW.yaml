@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYCX68K7GQJM44BCCYR3YCDW
+space: livee2e
+subject: XQ-alpha-20260725-r839
+transition: submit
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-25T15:09:38Z"
