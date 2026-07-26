@@ -1,0 +1,12 @@
+schema: event/v1
+event: 01KYEA7G7H0P88AKP2HWWMHV6G
+space: livee2e
+subject: XW-alpha-20260726-awew
+transition: respond
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-07-26T04:16:45Z"
+refs:
+    - ref: XS-bravo-20260726-7yt7
