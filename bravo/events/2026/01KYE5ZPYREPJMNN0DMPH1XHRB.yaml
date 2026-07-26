@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYE5ZPYREPJMNN0DMPH1XHRB
+space: livee2e
+subject: XH-alpha-20260726-nrtp
+transition: verify-pass
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-07-26T03:02:35Z"
