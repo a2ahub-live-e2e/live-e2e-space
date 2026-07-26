@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYEPRTFBAGY42P16GQC8PX70
+space: livee2e
+subject: XC-alpha-ac973-registered-consumer
+transition: deprecate
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-26T07:55:55Z"
+refs:
+    - ref: XC-alpha-ac973-registered-consumer@2.0.0
+version: 1.0.0
