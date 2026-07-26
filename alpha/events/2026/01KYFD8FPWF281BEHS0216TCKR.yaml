@@ -1,0 +1,12 @@
+schema: event/v1
+event: 01KYFD8FPWF281BEHS0216TCKR
+space: livee2e
+subject: XC-alpha-ac973-registered-consumer
+transition: publish
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-26T14:28:57Z"
+version: 2.0.0
+digest: sha256:b743dece92f09a4aa3a95d2b9be7ef87526e47608696572ff20b157b2c16bdfa
