@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYE6R7AXV84PZDAPDD28HCTV
+space: livee2e
+subject: XD-alpha-20260726-frmw
+transition: propose
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-26T03:15:58Z"
