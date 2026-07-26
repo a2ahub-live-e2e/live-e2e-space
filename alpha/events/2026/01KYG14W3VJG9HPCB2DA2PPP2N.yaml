@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYG14W3VJG9HPCB2DA2PPP2N
+space: livee2e
+subject: XA-alpha-20260726-k7mc
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-26T20:16:30Z"
