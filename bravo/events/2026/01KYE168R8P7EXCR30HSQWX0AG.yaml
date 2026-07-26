@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYE168R8P7EXCR30HSQWX0AG
+space: livee2e
+subject: XH-alpha-20260726-pvsa
+transition: verify-pass
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-07-26T01:38:47Z"
