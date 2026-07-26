@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYG3P1K7AM6F0CAKZG5KJ4RF
+space: livee2e
+subject: XH-alpha-20260726-rd76
+transition: submit
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-26T21:00:50Z"
