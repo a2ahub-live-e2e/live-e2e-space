@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYE1D5MXHMDS045SQV9WDVTK
+space: livee2e
+subject: XS-bravo-20260726-g3ag
+transition: verify
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-26T01:42:33Z"
