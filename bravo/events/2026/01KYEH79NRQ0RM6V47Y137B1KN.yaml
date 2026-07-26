@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYEH79NRQ0RM6V47Y137B1KN
+space: livee2e
+subject: XA-bravo-20260726-at2x
+transition: publish
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-07-26T06:18:58Z"
