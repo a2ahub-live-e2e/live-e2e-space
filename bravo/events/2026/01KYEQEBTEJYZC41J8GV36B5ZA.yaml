@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYEQEBTEJYZC41J8GV36B5ZA
+space: livee2e
+subject: XH-alpha-20260726-pcbj
+transition: verify-pass
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-07-26T08:07:41Z"
