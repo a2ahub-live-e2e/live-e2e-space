@@ -1,0 +1,11 @@
+schema: event/v1
+event: 01KYF9DEGCK8A7KFWHPQ1ZZMK2
+space: livee2e
+subject: XC-alpha-ac973-registered-consumer
+transition: retire
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-26T13:21:45Z"
+version: 1.0.0
