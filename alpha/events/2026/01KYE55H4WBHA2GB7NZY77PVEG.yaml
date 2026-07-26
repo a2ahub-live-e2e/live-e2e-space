@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYE55H4WBHA2GB7NZY77PVEG
+space: livee2e
+subject: XC-alpha-ac973-registered-consumer
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-26T02:48:17Z"
