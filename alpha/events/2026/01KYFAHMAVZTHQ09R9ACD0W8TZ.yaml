@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYFAHMAVZTHQ09R9ACD0W8TZ
+space: livee2e
+subject: XR-alpha-illegalfam-requirement-satisfy
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-26T13:41:31Z"
