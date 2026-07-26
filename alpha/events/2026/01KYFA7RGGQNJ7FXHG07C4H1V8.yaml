@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYFA7RGGQNJ7FXHG07C4H1V8
+space: livee2e
+subject: XQ-alpha-20260726-mjsh
+transition: close
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-26T13:36:08Z"
