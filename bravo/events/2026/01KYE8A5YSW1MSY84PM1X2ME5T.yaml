@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYE8A5YSW1MSY84PM1X2ME5T
+space: livee2e
+subject: XA-bravo-20260726-971p
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: bravo
+at: "2026-07-26T03:43:15Z"
