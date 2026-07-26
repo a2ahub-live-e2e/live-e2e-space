@@ -1,0 +1,10 @@
+schema: event/v1
+event: 01KYG24PMQWEQ8ZDCFS2PY7MWF
+space: livee2e
+subject: XA-alpha-20260726-e7fy
+transition: acknowledge
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-07-26T20:33:53Z"
