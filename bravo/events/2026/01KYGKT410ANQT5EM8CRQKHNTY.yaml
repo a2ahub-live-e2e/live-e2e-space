@@ -1,0 +1,16 @@
+schema: event/v1
+event: 01KYGKT410ANQT5EM8CRQKHNTY
+space: livee2e
+subject: XC-bravo-matrix-contract-lifecycle
+transition: deprecate
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-07-27T01:42:41Z"
+refs:
+    - ref: XC-bravo-matrix-contract-lifecycle-successor@2.0.0
+version: 1.0.0
+produced_by:
+  tool: a2a
+  version: "0.10.0"
