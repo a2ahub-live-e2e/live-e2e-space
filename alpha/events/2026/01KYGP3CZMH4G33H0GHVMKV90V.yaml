@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYGP3CZMH4G33H0GHVMKV90V
+space: livee2e
+subject: XA-alpha-20260727-gdmb
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-27T02:22:42Z"
+produced_by:
+  tool: a2a
+  version: "0.10.0"
