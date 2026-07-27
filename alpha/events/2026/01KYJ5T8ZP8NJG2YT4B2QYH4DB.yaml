@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYJ5T8ZP8NJG2YT4B2QYH4DB
+space: livee2e
+subject: XS-bravo-20260727-jby3
+transition: verify
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-27T16:16:35Z"
+produced_by:
+  tool: a2a
+  version: "0.11.0"
