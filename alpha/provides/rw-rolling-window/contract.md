@@ -18,7 +18,7 @@ title: matrix contract
 to:
     - alpha
 type: contract
-version: 1.2.0
+version: 2.1.0
 ---
 # <Contract name>
 
