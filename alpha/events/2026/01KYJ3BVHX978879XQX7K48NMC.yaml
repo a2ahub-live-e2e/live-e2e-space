@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KYJ3BVHX978879XQX7K48NMC
+space: livee2e
+subject: XC-alpha-rw-rolling-window
+transition: retire
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-27T15:33:45Z"
+version: 1.1.0
+produced_by:
+  tool: a2a
+  version: "0.11.0"
