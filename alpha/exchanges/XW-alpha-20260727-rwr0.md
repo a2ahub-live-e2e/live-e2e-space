@@ -1,0 +1,26 @@
+---
+schema: envelope/v1
+id: XW-alpha-20260727-rwr0 # exchange ID grammar §3.3
+type: work_request
+title: matrix work_request
+space: livee2e
+from: alpha
+to: [bravo]
+actor: {kind: agent, name: 'live-e2e'}
+created: 2026-07-27T02:17:34Z
+category: data # closed enum, §5.2.1
+priority: p3
+blocking: false
+interim_behavior: "we proceed with the current shape"
+needed_by: 2026-12-31
+acceptance_criteria: # required
+  - "the artifact validates"
+# proposed_change: "<structured summary>"   # REQUIRED when category is contract-change or process-change
+thread: thread:alpha-20260727-bzag
+# refs:                                      # REQUIRED (with a pinned entry) when category is contract-change or process-change
+#   - {ref: "<XC-id>@<version>"}
+expected_response:
+  shape: "a short prose answer"
+classification: internal
+---
+Body: what's needed, acceptance evidence expectations.
