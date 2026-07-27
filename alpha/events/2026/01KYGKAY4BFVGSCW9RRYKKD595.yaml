@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYGKAY4BFVGSCW9RRYKKD595
+space: livee2e
+subject: XA-alpha-20260727-kx44
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-27T01:34:23Z"
+produced_by:
+  tool: a2a
+  version: "0.10.0"
