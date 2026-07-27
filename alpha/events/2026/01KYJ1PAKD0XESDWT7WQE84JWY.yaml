@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYJ1PAKD0XESDWT7WQE84JWY
+space: livee2e
+subject: XA-alpha-20260727-feay
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-27T15:04:31Z"
+produced_by:
+  tool: a2a
+  version: "0.11.0"
