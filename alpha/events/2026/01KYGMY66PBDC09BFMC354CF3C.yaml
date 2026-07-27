@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYGMY66PBDC09BFMC354CF3C
+space: livee2e
+subject: XH-alpha-20260727-njfv
+transition: submit
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-27T02:02:23Z"
+produced_by:
+  tool: a2a
+  version: "0.10.0"
