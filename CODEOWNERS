@@ -1,0 +1,5 @@
+# Trust-root paths only: these define WHO may write, so they cannot be
+# governed by "is the author a member". Everything else is V3 + status.
+/space.yaml   @ydnikolaev
+/CODEOWNERS   @ydnikolaev
+/.github/**   @ydnikolaev
