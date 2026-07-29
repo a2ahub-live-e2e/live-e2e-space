@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYQB44S4QW75DDGD3RNR3FGE
+space: livee2e
+subject: XA-alpha-20260729-nyrt
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-29T16:25:33Z"
+produced_by:
+  tool: a2a
+  version: "0.15.2"
