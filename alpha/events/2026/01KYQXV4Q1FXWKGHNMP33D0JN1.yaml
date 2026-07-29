@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYQXV4Q1FXWKGHNMP33D0JN1
+space: livee2e
+subject: XH-alpha-20260729-8syh
+transition: submit
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-29T21:52:41Z"
+produced_by:
+  tool: a2a
+  version: "0.15.2"
