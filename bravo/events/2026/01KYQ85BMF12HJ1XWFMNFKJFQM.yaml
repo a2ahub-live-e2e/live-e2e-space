@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYQ85BMF12HJ1XWFMNFKJFQM
+space: livee2e
+subject: XR-bravo-matrix-mcp-lifecycle-bravo
+transition: withdraw
+actor:
+    kind: agent
+    name: ""
+    system: bravo
+at: "2026-07-29T15:33:47Z"
+produced_by:
+  tool: a2a
+  version: "0.15.2"
