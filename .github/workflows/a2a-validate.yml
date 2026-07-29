@@ -1,0 +1,53 @@
+# V3 CI — the space's write-funnel gate (spec 09 §4.2/§5.5, redesigned in
+# P33). A thin CALLER of a2ahub's reusable validation workflow: this space
+# carries NO validation logic, NO pinned-binary fetch, and NO
+# A2A_BINARY_FETCH_TOKEN secret. Install + the exact `validate --ci` flags +
+# the pinned a2a version all live in the referenced unit and move as a whole
+# via a Dependabot bump of the SHA below (see .github/dependabot.yml) —
+# never a hand-edit here. This kills the copy/token/manual-pin drift that
+# froze pre-P33 spaces (spec 33 §1).
+name: a2a-validate
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+# The reusable `validate` job needs contents:read + pull-requests:read (V3's
+# G1/G2 policy reads approving reviews via the host API). A reusable workflow
+# can only DOWNGRADE the caller's token, so these are granted here.
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  # The blocking gate. The surfaced status-check CONTEXT is
+  # `a2a-validate / validate` (this caller job / the reusable `validate` job)
+  # — THIS compound string is the required check a branch-protection rule
+  # binds to (P33 amended spec 09 §4.2 / AC row 6; see BRANCH-PROTECTION.md).
+  # Renaming this job changes that context — do not.
+  a2a-validate:
+    name: a2a-validate
+    if: github.event_name == 'pull_request'
+    # Pinned to an a2ahub RELEASE TAG (never @main): tags are immutable in
+    # a2ahub's publish model (pushed once per release, §0.5), and Dependabot
+    # bumps this ref by a reviewed PR that auto-merges on the green check. A
+    # scaffold (`a2a space init`) fills the running binary's own version here.
+    uses: ydnikolaev/a2ahub/.github/workflows/a2a-validate-reusable.yml@6f92d37ce8bb0601dcbd3371f0304691189ca427
+    with:
+      mode: v3-pr
+      a2a-ref: "6f92d37ce8bb0601dcbd3371f0304691189ca427"
+      base: ${{ github.event.pull_request.base.sha }}
+
+  # Flag-only post-merge audit (spec 09 §5.5 V3 row): full-repo scan on push,
+  # NEVER a required check — deliberately named so it can never collide with
+  # the `a2a-validate` context above. Already merged, so a red run blocks
+  # nothing; it surfaces cross-PR races (CC-095) visibly.
+  a2a-postmerge-audit:
+    name: a2a-postmerge-audit
+    if: github.event_name == 'push'
+    uses: ydnikolaev/a2ahub/.github/workflows/a2a-validate-reusable.yml@6f92d37ce8bb0601dcbd3371f0304691189ca427
+    with:
+      mode: v3-full-repo
+      a2a-ref: "6f92d37ce8bb0601dcbd3371f0304691189ca427"
