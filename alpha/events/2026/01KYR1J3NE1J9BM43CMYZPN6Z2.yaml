@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYR1J3NE1J9BM43CMYZPN6Z2
+space: livee2e
+subject: XC-alpha-matrix-mcp-contract-alpha-run-1628
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-29T22:57:40Z"
+produced_by:
+  tool: a2a
+  version: "0.15.2"
