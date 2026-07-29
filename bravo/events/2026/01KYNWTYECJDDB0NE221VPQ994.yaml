@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYNWTYECJDDB0NE221VPQ994
+space: livee2e
+subject: XW-alpha-20260729-ehet
+transition: acknowledge
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-07-29T02:56:37Z"
+produced_by:
+  tool: a2a
+  version: "0.13.0"
