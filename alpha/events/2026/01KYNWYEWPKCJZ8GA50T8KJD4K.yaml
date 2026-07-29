@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYNWYEWPKCJZ8GA50T8KJD4K
+space: livee2e
+subject: XW-alpha-20260729-ehet
+transition: close
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-29T02:58:32Z"
+produced_by:
+  tool: a2a
+  version: "0.13.0"
