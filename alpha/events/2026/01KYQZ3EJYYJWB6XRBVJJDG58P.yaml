@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYQZ3EJYYJWB6XRBVJJDG58P
+space: livee2e
+subject: XA-alpha-20260729-kgsy
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-29T22:14:42Z"
+produced_by:
+  tool: a2a
+  version: "0.15.2"
