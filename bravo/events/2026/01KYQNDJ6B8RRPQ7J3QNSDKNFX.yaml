@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYQNDJ6B8RRPQ7J3QNSDKNFX
+space: livee2e
+subject: XR-bravo-matrix-lifecycle-req
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: bravo
+at: "2026-07-29T19:25:28Z"
+produced_by:
+  tool: a2a
+  version: "0.15.2"
