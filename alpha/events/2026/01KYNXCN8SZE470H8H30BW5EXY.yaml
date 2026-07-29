@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYNXCN8SZE470H8H30BW5EXY
+space: livee2e
+subject: XD-alpha-20260729-mvft
+transition: propose
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-29T03:06:18Z"
+produced_by:
+  tool: a2a
+  version: "0.13.0"
