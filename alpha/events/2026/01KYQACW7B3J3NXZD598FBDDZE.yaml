@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYQACW7B3J3NXZD598FBDDZE
+space: livee2e
+subject: XH-alpha-20260729-cdcc
+transition: submit
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-29T16:12:51Z"
+produced_by:
+  tool: a2a
+  version: "0.15.2"
