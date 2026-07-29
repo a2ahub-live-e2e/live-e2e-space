@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYNV7B026QYKDEDQ1XGXHHS0
+space: livee2e
+subject: XC-alpha-matrix-contract-lifecycle
+transition: retire
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-29T02:28:26Z"
+produced_by:
+  tool: a2a
+  version: "0.13.0"
