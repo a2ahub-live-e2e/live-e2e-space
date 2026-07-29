@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYNY02H6PPVZ2Q0ERCE9CM9T
+space: livee2e
+subject: XD-alpha-20260729-kycm
+transition: propose
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-29T03:16:54Z"
+produced_by:
+  tool: a2a
+  version: "0.13.0"
