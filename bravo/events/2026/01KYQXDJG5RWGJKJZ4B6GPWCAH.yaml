@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYQXDJG5RWGJKJZ4B6GPWCAH
+space: livee2e
+subject: XQ-alpha-20260729-bgtm
+transition: acknowledge
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-07-29T21:45:17Z"
+produced_by:
+  tool: a2a
+  version: "0.15.2"
