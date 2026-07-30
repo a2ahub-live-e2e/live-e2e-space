@@ -1,0 +1,16 @@
+schema: event/v1
+event: 01KYSTQBZNZYM7FV1MPEG2YT8P
+space: livee2e
+subject: XC-alpha-rw-rolling-window-run-1826
+transition: deprecate
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-30T15:36:41Z"
+refs:
+    - ref: XC-alpha-rw-rolling-window-run-1826@2.0.0
+version: 1.1.0
+produced_by:
+  tool: a2a
+  version: "0.16.2"
