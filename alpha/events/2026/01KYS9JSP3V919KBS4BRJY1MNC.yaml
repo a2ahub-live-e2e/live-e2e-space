@@ -1,0 +1,15 @@
+schema: event/v1
+event: 01KYS9JSP3V919KBS4BRJY1MNC
+space: livee2e
+subject: XC-alpha-ac973-registered-consumer-run-1778
+transition: publish
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-30T10:37:05Z"
+version: 2.0.0
+digest: sha256:5f1b7c868213cb60cbb1a48c93682155848e9a7f93a8cda9b16b39361e17f8fe
+produced_by:
+  tool: a2a
+  version: "0.16.0"
