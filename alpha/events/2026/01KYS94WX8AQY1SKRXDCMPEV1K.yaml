@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYS94WX8AQY1SKRXDCMPEV1K
+space: livee2e
+subject: XC-alpha-matrix-mcp-contract-alpha-run-1778
+transition: retire
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-30T10:29:30Z"
+produced_by:
+  tool: a2a
+  version: "0.16.0"
