@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYR5JYHCFZF8X4F2A2YXE4VX
+space: livee2e
+subject: XA-alpha-20260730-pfbb
+transition: acknowledge
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-07-30T00:08:01Z"
+produced_by:
+  tool: a2a
+  version: "0.15.2"
