@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYS7R0RAZM5S91RZEMWCRZBY
+space: livee2e
+subject: XA-alpha-20260730-17xh
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-30T10:04:59Z"
+produced_by:
+  tool: a2a
+  version: "0.16.0"
