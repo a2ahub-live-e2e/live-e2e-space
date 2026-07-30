@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYSXEY9GQRP4N011QQ7ESNNB
+space: livee2e
+subject: XA-alpha-20260730-kbpe
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-30T16:24:30Z"
+produced_by:
+  tool: a2a
+  version: "0.16.2"
