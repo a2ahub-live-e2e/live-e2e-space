@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYS96H3VGH6RZTN8D2CZ0A19
+space: livee2e
+subject: XC-bravo-matrix-mcp-contract-bravo-run-1778
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: bravo
+at: "2026-07-30T10:30:23Z"
+produced_by:
+  tool: a2a
+  version: "0.16.0"
