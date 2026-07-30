@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYR7HJF3JK0BH9ZKV2741H8R
+space: livee2e
+subject: XR-bravo-matrix-mcp-lifecycle-bravo
+transition: withdraw
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-07-30T00:42:13Z"
+produced_by:
+  tool: a2a
+  version: "0.15.2"
