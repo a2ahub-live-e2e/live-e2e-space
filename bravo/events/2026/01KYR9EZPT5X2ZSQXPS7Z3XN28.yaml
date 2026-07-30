@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYR9EZPT5X2ZSQXPS7Z3XN28
+space: livee2e
+subject: XH-alpha-20260730-pxfc
+transition: acknowledge
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-07-30T01:15:46Z"
+produced_by:
+  tool: a2a
+  version: "0.15.2"
