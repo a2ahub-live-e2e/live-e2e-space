@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYS9MVYZXWHC5ESAQ2SATRBA
+space: livee2e
+subject: XA-alpha-20260730-17nm
+transition: publish
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-30T10:38:13Z"
+produced_by:
+  tool: a2a
+  version: "0.16.0"
