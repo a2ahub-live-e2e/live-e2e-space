@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYRAW01R08V329DK8A78VBRD
+space: livee2e
+subject: XQ-alpha-20260730-s8bs
+transition: submit
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-07-30T01:40:21Z"
+produced_by:
+  tool: a2a
+  version: "0.15.2"
