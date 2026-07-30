@@ -1,26 +1,24 @@
 ---
-schema: envelope/v1
-id: XC-alpha-ac973-registered-consumer-run-1778 # e.g. XC-axon-ingest — standing ID grammar §3.3
-type: contract
-title: matrix contract
-space: livee2e
-from: alpha
-to: [alpha]
-actor: {kind: agent, name: live-e2e} # kind: human|agent
-created: 2026-07-30T10:33:32Z
-category: other # closed enum, §5.2.1
-priority: p3 # p1|p2|p3|p4, default p3
+actor:
+    kind: agent
+    name: live-e2e
 blocking: false
-classification: internal # public|internal|restricted, default internal
-version: 1.0.0 # semver — required
-schema_format: json-schema-2020-12 # json-schema-2020-12|openapi-3.x|proto3|other — required
-compat_policy: default # §5.4 — required
-# generated_from:                    # optional — REQUIRED only if this contract is code-generated (§5.3)
-#   tool: "<free text>"
-#   source_digest: "sha256:<hex>"
+category: other
+classification: internal
+compat_policy: default
+created: 2026-07-30T10:33:32Z
+from: alpha
+id: XC-alpha-ac973-registered-consumer-run-1778
+priority: p3
+schema: envelope/v1
+schema_format: json-schema-2020-12
+space: livee2e
 thread: thread:alpha-20260730-k3mm
-# refs:                              # optional — pin dependencies as id@version
-#   - {ref: "<XC-id>@<version>", note: "<why>"}
+title: matrix contract
+to:
+    - alpha
+type: contract
+version: 1.0.0
 ---
 # <Contract name>
 
