@@ -1,0 +1,4 @@
+system: alpha
+spaces:
+    - id: live-e2e-space
+      repo_url: https://github.com/a2ahub-live-e2e/live-e2e-space.git
