@@ -1,0 +1,15 @@
+schema: event/v1
+event: 01KYS9ZP6SYJX2FX463RJKPJTM
+space: livee2e
+subject: XC-alpha-rw-rolling-window-run-1778
+transition: publish
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-30T10:44:08Z"
+version: 2.0.0
+digest: sha256:91dfdf3536080c1feaf52768dd4b2517aeeeded94baf0b42e26ace031b88009d
+produced_by:
+  tool: a2a
+  version: "0.16.0"
