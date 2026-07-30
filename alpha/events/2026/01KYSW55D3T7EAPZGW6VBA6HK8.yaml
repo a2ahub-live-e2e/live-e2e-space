@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYSW55D3T7EAPZGW6VBA6HK8
+space: livee2e
+subject: XD-alpha-20260730-pbmr
+transition: approve
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-07-30T16:01:41Z"
+produced_by:
+  tool: a2a
+  version: "0.16.2"
