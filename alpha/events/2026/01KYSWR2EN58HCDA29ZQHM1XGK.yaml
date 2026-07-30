@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYSWR2EN58HCDA29ZQHM1XGK
+space: livee2e
+subject: XD-alpha-20260730-sp6w
+transition: propose
+actor:
+    kind: human
+    name: live-e2e-operator
+    system: alpha
+at: "2026-07-30T16:12:01Z"
+produced_by:
+  tool: a2a
+  version: "0.16.2"
