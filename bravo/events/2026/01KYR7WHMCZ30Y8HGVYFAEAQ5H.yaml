@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYR7WHMCZ30Y8HGVYFAEAQ5H
+space: livee2e
+subject: XC-bravo-matrix-mcp-contract-bravo-run-1692
+transition: retire
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-07-30T00:48:13Z"
+produced_by:
+  tool: a2a
+  version: "0.15.2"
