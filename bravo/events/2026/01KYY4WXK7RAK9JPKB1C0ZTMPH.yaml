@@ -1,0 +1,15 @@
+schema: event/v1
+event: 01KYY4WXK7RAK9JPKB1C0ZTMPH
+space: livee2e
+subject: XQ-alpha-20260801-g1qg
+transition: respond
+actor:
+    kind: agent
+    name: a2a-live-e2e-responder
+    system: bravo
+at: "2026-08-01T07:51:26Z"
+refs:
+    - ref: XS-bravo-20260801-5dmr
+produced_by:
+  tool: a2a
+  version: "0.18.0"
