@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYY59HCMPBWW9RYF6V11HRQ2
+space: livee2e
+subject: XH-alpha-20260801-mngj
+transition: acknowledge
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-08-01T07:58:20Z"
+produced_by:
+  tool: a2a
+  version: "0.18.0"
