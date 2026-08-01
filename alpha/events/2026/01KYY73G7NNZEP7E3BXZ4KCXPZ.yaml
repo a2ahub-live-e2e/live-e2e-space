@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYY73G7NNZEP7E3BXZ4KCXPZ
+space: livee2e
+subject: XQ-alpha-20260801-dpbv
+transition: submit
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-08-01T08:29:59Z"
+produced_by:
+  tool: a2a
+  version: "0.18.0"
