@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KYZS2TG6TV73SBDE72K7Y3S0
+space: livee2e
+subject: XS-bravo-20260801-amx9
+transition: note
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-08-01T23:03:25Z"
+note: verification rationale recorded before verify
+produced_by:
+  tool: a2a
+  version: "0.18.1"
