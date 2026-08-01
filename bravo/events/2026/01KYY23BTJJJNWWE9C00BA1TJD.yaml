@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYY23BTJJJNWWE9C00BA1TJD
+space: livee2e
+subject: XA-bravo-20260801-mc65
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: bravo
+at: "2026-08-01T07:02:32Z"
+produced_by:
+  tool: a2a
+  version: "0.18.0"
