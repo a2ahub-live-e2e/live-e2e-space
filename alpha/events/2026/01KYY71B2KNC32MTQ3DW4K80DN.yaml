@@ -1,0 +1,13 @@
+schema: event/v1
+event: 01KYY71B2KNC32MTQ3DW4K80DN
+space: livee2e
+subject: XA-alpha-20260801-hmq8
+transition: publish
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-08-01T08:28:48Z"
+produced_by:
+  tool: a2a
+  version: "0.18.0"
