@@ -1,0 +1,15 @@
+schema: event/v1
+event: 01KYY3JSG4MRXGYS02VXPHZA1J
+space: livee2e
+subject: XC-bravo-matrix-mcp-contract-bravo-run-1912
+transition: deprecate
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-08-01T07:28:26Z"
+refs:
+    - ref: XC-bravo-matrix-mcp-contract-bravo-run-1912-successor@2.0.0
+produced_by:
+  tool: a2a
+  version: "0.18.0"
