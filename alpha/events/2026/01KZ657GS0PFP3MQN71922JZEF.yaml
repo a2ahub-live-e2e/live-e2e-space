@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ657GS0PFP3MQN71922JZEF
+space: livee2e
+subject: XR-alpha-oc-p7-receipt-run-2134
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-08-04T10:31:09Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
