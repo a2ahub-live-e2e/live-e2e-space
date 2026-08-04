@@ -12,13 +12,13 @@ category: api
 priority: p2
 blocking: false
 classification: internal
-version: 0.0.0
+version: 1.0.0
 schema_format: json-schema-2020-12
 compat_policy: default
 thread: thread:alpha-20260803-0cp7
 artifacts:
-  - {path: schema/order.schema.json, role: schema, normative: true, media_type: application/schema+json}
-  - {path: fixtures/valid/order.json, role: valid-fixture, normative: true, media_type: application/json, conforms_to: schema/order.schema.json}
-  - {path: fixtures/invalid/order.json, role: invalid-fixture, normative: true, media_type: application/json, conforms_to: schema/order.schema.json}
+    - {path: schema/order.schema.json, role: schema, normative: true, media_type: application/schema+json}
+    - {path: fixtures/valid/order.json, role: valid-fixture, normative: true, media_type: application/json, conforms_to: schema/order.schema.json}
+    - {path: fixtures/invalid/order.json, role: invalid-fixture, normative: true, media_type: application/json, conforms_to: schema/order.schema.json}
 ---
 # P7 contract
