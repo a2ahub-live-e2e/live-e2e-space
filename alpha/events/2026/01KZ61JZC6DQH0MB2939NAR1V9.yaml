@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ61JZC6DQH0MB2939NAR1V9
+space: livee2e
+subject: XC-alpha-rw-rolling-window-run-2110
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-08-04T09:27:30Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
