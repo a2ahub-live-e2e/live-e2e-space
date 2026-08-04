@@ -1,0 +1,15 @@
+schema: event/v1
+event: 01KZ65JG0CDBJ14CKJA76CT6RV
+space: livee2e
+subject: XA-bravo-20260804-ge2k
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: oc-bravo
+    system: bravo
+    session: session:01KZ65D9BCFJDM9QNGHXCR525G
+at: "2026-08-04T10:37:09Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
