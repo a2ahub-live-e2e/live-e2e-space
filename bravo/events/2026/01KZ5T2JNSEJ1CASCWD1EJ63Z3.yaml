@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ5T2JNSEJ1CASCWD1EJ63Z3
+space: livee2e
+subject: XA-bravo-20260804-dspc
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: live-e2e
+    system: bravo
+at: "2026-08-04T07:16:13Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
