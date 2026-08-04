@@ -1,0 +1,33 @@
+---
+schema: envelope/v2
+id: XA-alpha-20260804-hxcp
+type: announcement
+title: Work checkpoint XA-alpha-20260804-hxcp
+space: livee2e
+from: alpha
+to:
+    - bravo
+actor:
+    kind: agent
+    name: oc-alpha
+    session: session:01KZ5RZD9ZD13Q009ZK8QN732Q
+created: 2026-08-04T06:57:00Z
+category: status
+priority: p3
+blocking: false
+ack_requested: false
+classification: internal
+thread: thread:alpha-20260804-0ddj
+refs:
+    - ref: XR-alpha-oc-p7-receipt-run-2030
+      note: Work checkpoint subject
+work:
+    id: work:01KZ5RZD9ZRP2NEZ9VRPH1ND3T
+    semantic_sequence: 1
+    mode: implementing
+    subject_ref: XR-alpha-oc-p7-receipt-run-2030
+    summary: alpha started P7 work
+    reported_at: "2026-08-04T06:57:00Z"
+    valid_until: "2026-08-04T07:27:00Z"
+---
+Structured work checkpoint; see the work block.
