@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ5S7FFFTPBT4VYPMT9BA1VB
+space: livee2e
+subject: XA-alpha-20260804-6azt
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-08-04T07:01:25Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
