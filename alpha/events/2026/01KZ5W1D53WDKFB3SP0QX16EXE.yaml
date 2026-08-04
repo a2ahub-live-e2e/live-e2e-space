@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ5W1D53WDKFB3SP0QX16EXE
+space: livee2e
+subject: XS-bravo-20260804-fczh
+transition: note
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-08-04T07:50:31Z"
+note: verification rationale recorded before verify
+produced_by:
+  tool: a2a
+  version: "0.19.0"
