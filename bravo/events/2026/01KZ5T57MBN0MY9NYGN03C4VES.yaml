@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ5T57MBN0MY9NYGN03C4VES
+space: livee2e
+subject: XA-bravo-20260804-r4vm
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: live-e2e
+    system: bravo
+at: "2026-08-04T07:17:40Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
