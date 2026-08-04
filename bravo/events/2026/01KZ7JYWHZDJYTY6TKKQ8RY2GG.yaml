@@ -1,0 +1,15 @@
+schema: event/v1
+event: 01KZ7JYWHZDJYTY6TKKQ8RY2GG
+space: livee2e
+subject: XA-bravo-20260804-wapa
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: oc-bravo
+    system: bravo
+    session: session:01KZ7JDQ0DD4BGEQAW49JBBR3S
+at: "2026-08-04T23:50:20Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
