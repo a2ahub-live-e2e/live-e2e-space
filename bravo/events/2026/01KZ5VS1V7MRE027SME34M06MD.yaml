@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ5VS1V7MRE027SME34M06MD
+space: livee2e
+subject: XH-alpha-20260804-75me
+transition: verify-pass
+state: accepted
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-08-04T07:45:58Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
