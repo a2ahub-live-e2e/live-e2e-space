@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ5W3JM8PS4193G41GAYDDBD
+space: livee2e
+subject: XQ-alpha-20260804-cgc7
+transition: close
+state: closed
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-08-04T07:51:42Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
