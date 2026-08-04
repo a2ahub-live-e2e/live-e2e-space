@@ -1,0 +1,15 @@
+schema: event/v1
+event: 01KZ5TNNJZRZC3SQNJE0PJCF5S
+space: livee2e
+subject: XC-alpha-matrix-mcp-contract-alpha-run-2030
+transition: deprecate
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-08-04T07:26:38Z"
+refs:
+    - ref: XC-alpha-matrix-mcp-contract-alpha-run-2030-successor@2.0.0
+produced_by:
+  tool: a2a
+  version: "0.19.0"
