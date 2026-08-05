@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ7MBN7H3Q2Q128BH23ZC7SG
+space: livee2e
+subject: XA-bravo-20260805-pvqp
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-08-05T00:14:48Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
