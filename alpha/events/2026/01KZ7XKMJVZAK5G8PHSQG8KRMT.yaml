@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ7XKMJVZAK5G8PHSQG8KRMT
+space: livee2e
+subject: XR-alpha-matrix-mcp-lifecycle-alpha
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-08-05T02:56:26Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
