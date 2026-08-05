@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ8WMTSSW03YFW33H1033ZC4
+space: livee2e
+subject: XA-alpha-20260805-gahr
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-08-05T11:58:51Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
