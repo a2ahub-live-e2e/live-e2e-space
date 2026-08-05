@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ7M3PC98R9P15667CVYK8M1
+space: livee2e
+subject: XA-alpha-20260805-aczm
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-08-05T00:10:27Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
