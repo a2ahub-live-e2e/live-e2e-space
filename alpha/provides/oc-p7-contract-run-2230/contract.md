@@ -12,7 +12,7 @@ category: api
 priority: p2
 blocking: false
 classification: internal
-version: 1.0.0
+version: 2.0.0
 schema_format: json-schema-2020-12
 compat_policy: default
 thread: thread:alpha-20260803-0cp7
