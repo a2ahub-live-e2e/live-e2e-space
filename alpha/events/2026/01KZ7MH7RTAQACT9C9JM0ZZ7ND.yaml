@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ7MH7RTAQACT9C9JM0ZZ7ND
+space: livee2e
+subject: XA-alpha-20260805-crd2
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-08-05T00:17:50Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
