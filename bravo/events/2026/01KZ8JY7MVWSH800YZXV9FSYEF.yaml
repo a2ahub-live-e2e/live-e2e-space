@@ -1,0 +1,15 @@
+schema: event/v1
+event: 01KZ8JY7MVWSH800YZXV9FSYEF
+space: livee2e
+subject: XA-bravo-20260805-gyq0
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: oc-bravo
+    system: bravo
+    session: session:01KZ8JY7MVD5T9X445K7WDKDCZ
+at: "2026-08-05T09:09:14Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
