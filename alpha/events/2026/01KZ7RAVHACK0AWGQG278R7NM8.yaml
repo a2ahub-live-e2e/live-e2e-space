@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ7RAVHACK0AWGQG278R7NM8
+space: livee2e
+subject: XA-alpha-20260805-ne0x
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-08-05T01:24:16Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
