@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ7WRSCJZGN80X81E9EVH3WY
+space: livee2e
+subject: XC-bravo-matrix-contract-lifecycle-run-2230
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: live-e2e
+    system: bravo
+at: "2026-08-05T02:41:46Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
