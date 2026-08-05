@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ8PBJA9W6SHNVAM4EAXW2YY
+space: livee2e
+subject: XC-alpha-oc-p7-contract-run-2344
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: oc-contract
+    system: alpha
+at: "2026-08-05T10:08:56Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
