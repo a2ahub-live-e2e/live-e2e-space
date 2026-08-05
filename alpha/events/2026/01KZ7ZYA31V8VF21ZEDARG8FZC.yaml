@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ7ZYA31V8VF21ZEDARG8FZC
+space: livee2e
+subject: XQ-alpha-20260805-xc7q
+transition: submit
+state: submitted
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-08-05T03:37:13Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
