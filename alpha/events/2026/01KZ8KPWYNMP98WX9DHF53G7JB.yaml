@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ8KPWYNMP98WX9DHF53G7JB
+space: livee2e
+subject: XC-alpha-dl-data-exchange-run-2332
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-08-05T09:22:42Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
