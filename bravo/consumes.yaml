@@ -4,3 +4,6 @@ dependencies:
     - contract: XC-alpha-ac973-registered-consumer-run-2401
       major: 1
       since: "2026-08-05"
+    - contract: XC-alpha-rw-rolling-window-run-2401
+      major: 1
+      since: "2026-08-05"
