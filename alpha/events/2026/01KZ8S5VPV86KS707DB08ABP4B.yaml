@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ8S5VPV86KS707DB08ABP4B
+space: livee2e
+subject: XA-alpha-20260805-zw8a
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-08-05T10:58:15Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
