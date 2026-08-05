@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ8M27GXABE5Y8AYD4H36303
+space: livee2e
+subject: XH-bravo-20260805-f0e2
+transition: submit
+state: submitted
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: bravo
+at: "2026-08-05T09:28:53Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
