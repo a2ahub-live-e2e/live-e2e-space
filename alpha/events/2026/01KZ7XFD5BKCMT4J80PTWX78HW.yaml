@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ7XFD5BKCMT4J80PTWX78HW
+space: livee2e
+subject: XA-alpha-20260805-nxhf
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-08-05T02:54:08Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
