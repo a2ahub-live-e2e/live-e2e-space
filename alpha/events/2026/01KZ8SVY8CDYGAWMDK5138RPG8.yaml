@@ -1,0 +1,22 @@
+schema: event/v2
+event: 01KZ8SVY8CDYGAWMDK5138RPG8
+space: livee2e
+subject: XC-alpha-rw-rolling-window-run-2344
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-08-05T11:10:18Z"
+version: 1.2.0
+digest: sha256:c09945b8d16351e99a95d2bbbd32430a338fb2af19ac7a27cb48dd94d0fe4cd8
+digest_profile: contract-set-v2
+publication:
+    intent_key: op-v1-53e11b758017672554941201f994a7ff00d8fc4d8a4fb72081856f969040e8b0
+    candidate_intent_digest: sha256:5a45deb22123ddae4bc0244207403bb6200c897bb8796df4b6bc17d01a69bba0
+    version_selector: explicit:1.2.0
+    operation_key: op-v1-0206c23bbfd2f38cbbfbbd8bb03155aa4353097519900efcbd059794eb5a47b5
+produced_by:
+  tool: a2a
+  version: "0.19.0"
