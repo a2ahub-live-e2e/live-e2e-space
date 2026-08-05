@@ -1,12 +1,8 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$comment": "Scaffolded by `a2a contract new` for ac973-registered-consumer-run-2344 (spec 37 decision D-D). Placeholder shape only -- replace `example` with this contract's real fields as they solidify. additionalProperties is true (not false) on purpose: a starter schema that has not yet described every field should not reject a payload it hasn't modeled; tighten to false once the shape is final.",
   "type": "object",
   "properties": {
-    "example": {
-      "type": "string",
-      "description": "Placeholder field -- replace with a real field of ac973-registered-consumer-run-2344's payload."
-    }
+    "example": { "type": "integer" }
   },
   "additionalProperties": true
 }

@@ -12,7 +12,7 @@ category: other
 priority: p3
 blocking: false
 classification: internal
-version: 1.0.0 # set by `a2a contract publish`, never by hand — see the note at the bottom
+version: 2.0.0 # set by `a2a contract publish`, never by hand — see the note at the bottom
 schema_format: json-schema-2020-12
 compat_policy: default
 # generated_from:                    # include only for a code-generated contract
