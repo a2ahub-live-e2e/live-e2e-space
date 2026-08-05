@@ -1,0 +1,22 @@
+schema: event/v2
+event: 01KZ7YB62KBZ8KHD522NJSZNQS
+space: livee2e
+subject: XC-alpha-ac973-registered-consumer-run-2230
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-08-05T03:09:18Z"
+version: 1.0.0
+digest: sha256:c99c9d5d25ca555ccff7f9ac11366239c4ad3dad4c878487af8f7f32d420b945
+digest_profile: contract-set-v2
+publication:
+    intent_key: op-v1-bfeda05eef893601ac4f398ebeedf72f56a0e1ebd35f0233765d72a025eaa62d
+    candidate_intent_digest: sha256:3697de8c64e99365c24ed306f97acf4c513ee744e2f1fd1c44c3cb4b288d5287
+    version_selector: explicit:1.0.0
+    operation_key: op-v1-72f68cf8db2120e2efac2f074a6c63830cc126c1e994a908e3ad8114a11ea7ac
+produced_by:
+  tool: a2a
+  version: "0.19.0"
