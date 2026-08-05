@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ7KFGX8V1ZX1FW5FEGDKPCD
+space: livee2e
+subject: XA-alpha-20260804-akhw
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-08-04T23:59:26Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
