@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ8M5ER1A91MQERPF9Q8KKVP
+space: livee2e
+subject: XH-bravo-20260805-f0e2
+transition: acknowledge
+state: acknowledged
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-08-05T09:30:39Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
