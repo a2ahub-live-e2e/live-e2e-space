@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ7QKN7M67JRVKXB8NX39XKR
+space: livee2e
+subject: XD-alpha-20260805-p10b
+transition: propose
+state: proposed
+actor:
+    kind: human
+    name: live-e2e-operator
+    system: alpha
+at: "2026-08-05T01:11:35Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
