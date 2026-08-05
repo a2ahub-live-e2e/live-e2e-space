@@ -1,0 +1,15 @@
+schema: event/v1
+event: 01KZ7V1NYAV5E3MD3CFSQZV00W
+space: livee2e
+subject: XA-alpha-20260805-x1tx
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: oc-alpha
+    system: alpha
+    session: session:01KZ7TVKDZPC6RJR1FQK4YT4TB
+at: "2026-08-05T02:11:41Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
