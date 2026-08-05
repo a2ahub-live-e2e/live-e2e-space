@@ -1,0 +1,22 @@
+schema: event/v2
+event: 01KZ8KS7MFASPN6RCW25X5J8Z2
+space: livee2e
+subject: XC-alpha-dl-data-exchange-run-2332
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-08-05T09:23:58Z"
+version: 1.0.0
+digest: sha256:8e70f9ca213247934ad669381c1c20056fdaeb88ccfa6f33032d5b644633220f
+digest_profile: contract-set-v2
+publication:
+    intent_key: op-v1-a6c24399756250ee47ccae3b7e3d5f6cb8fb50367a07ce914d85df53640e6239
+    candidate_intent_digest: sha256:c0086346dd3aa02d0205980b8e930cdd924b6f39878df1450673f8e2968793af
+    version_selector: explicit:1.0.0
+    operation_key: op-v1-db3351dae114e831290796dbfea5fa304eef2d749088976c4b52546c91c7be92
+produced_by:
+  tool: a2a
+  version: "0.19.0"
