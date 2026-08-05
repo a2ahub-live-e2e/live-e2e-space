@@ -1,0 +1,14 @@
+schema: event/v1
+event: 01KZ7Y8TVQZ0HTB4RMJ1AT24SP
+space: livee2e
+subject: XC-alpha-ac973-registered-consumer-run-2230
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: live-e2e
+    system: alpha
+at: "2026-08-05T03:08:01Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
