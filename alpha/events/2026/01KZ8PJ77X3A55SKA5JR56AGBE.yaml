@@ -1,0 +1,22 @@
+schema: event/v2
+event: 01KZ8PJ77X3A55SKA5JR56AGBE
+space: livee2e
+subject: XC-alpha-oc-p7-contract-run-2344
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: yuranikolaev
+    system: alpha
+at: "2026-08-05T10:12:34Z"
+version: 2.0.0
+digest: sha256:efc8bab632f01ed02b1d896d66437ec3fb24b43fda470a15109cf3a2e94ddcca
+digest_profile: contract-set-v2
+publication:
+    intent_key: op-v1-45236a934bff08b8898ed0c018083546f6b1555b4ecb0435a6730c6e2c7500dd
+    candidate_intent_digest: sha256:841a05e3616e0d6c9d594d6e0bf9c134478d75a46994a5154ecf01e47cc8cb59
+    version_selector: explicit:2.0.0
+    operation_key: op-v1-8ca736434e56a489a8ad0ab052929149200cbf3aefa98beea8a154ee72965dee
+produced_by:
+  tool: a2a
+  version: "0.19.0"
