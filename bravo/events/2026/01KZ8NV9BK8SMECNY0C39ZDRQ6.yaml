@@ -1,0 +1,15 @@
+schema: event/v1
+event: 01KZ8NV9BK8SMECNY0C39ZDRQ6
+space: livee2e
+subject: XA-bravo-20260805-5hck
+transition: publish
+state: published
+actor:
+    kind: agent
+    name: oc-bravo
+    system: bravo
+    session: session:01KZ8NNZNVVKX09BK6SNKXCJSF
+at: "2026-08-05T10:00:03Z"
+produced_by:
+  tool: a2a
+  version: "0.19.0"
